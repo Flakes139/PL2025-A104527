@@ -18,7 +18,7 @@ def somador_on_off(l):
                 num = num * 10 + int(l[i])
                 i= i+1
             valor = valor + num
-        elif (l[i]=="="):
+        elif onOff==1 and (l[i]=="="):
             print(valor)
         i=i+1
 
