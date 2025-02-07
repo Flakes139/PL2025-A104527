@@ -11,5 +11,5 @@ Inclui também um ficheiro exemplo.txt com texto e números que utilizei para te
 
 ## Lista de Resultados:
 
-- [TPC1](TPC1.py)
-- [exemplo](exemplo.txt)
+- [Resoluçao em Python](TPC1.py)
+- [Ficheiro para teste](exemplo.txt)
