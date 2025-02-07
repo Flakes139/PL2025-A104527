@@ -1,5 +1,7 @@
 # PL2025-A104527
 
+![VascoGonçalves](vascogoncalves.jpg)
+
 ## Identificação:
 
 - **Nome:** Vasco João Timóteo Gonçalves 
